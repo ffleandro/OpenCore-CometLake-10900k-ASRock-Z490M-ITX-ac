@@ -1,11 +1,11 @@
 # OpenCore Comet Lake 10900k ASRock Z490M-ITX/ac
 
 ## Hardware:
-Motherboard: ASRock Z490M-ITX/ac
-CPU: Intel 10th Gen Comet Lake 10900K
-GPU: Onboard iGPU UHD 630 Desktop
-Memory: 32GB HyperX Fury DDR4 3000MHz (2x16GB)
-SSD: Adata XPG Spectrix S40G 1TB M.2 (Read 3500MB/s, Write 3000MB/s)
+- Motherboard: ASRock Z490M-ITX/ac
+- CPU: Intel 10th Gen Comet Lake 10900K
+- GPU: Onboard iGPU UHD 630 Desktop
+- Memory: 32GB HyperX Fury DDR4 3000MHz (2x16GB)
+- SSD: Adata XPG Spectrix S40G 1TB M.2 (Read 3500MB/s, Write 3000MB/s)
 
 ## Working:
 
